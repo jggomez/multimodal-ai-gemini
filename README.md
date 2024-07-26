@@ -22,6 +22,8 @@ The repository is organized into the following directories:
 * **Embeddings:**
   * Image embeddings: Generate numerical representations of images.
   * Video embeddings: Create numerical representations of videos.
+* **PDF:**
+  *  Add PDFs to Gemini requests to perform tasks that involve understanding the contents of the included PDFs
 
 ### Contributions
 We welcome contributions to this repository! If you have any improvements, new examples, or bug fixes, please feel free to open a pull request.
